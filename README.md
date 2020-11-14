@@ -12,6 +12,8 @@ Components:
 7. DC to DC converter
 8.12v DC Power Adapter
 9.16x2 LCD 
+10.DB9 Connectors
+11.PCB
 
 Skills Used:
 
